@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **umerrauf6@gmail.com**
 
-- 📄 Know about my experiences [https://umer-rauf-portfolio.netlify.app/static/media/umerCV.11d3e1a3aaf06abbad8f.pdf](https://umer-rauf-portfolio.netlify.app/static/media/umerCV.11d3e1a3aaf06abbad8f.pdf)
+- 📄 Know about my experiences [https://umer-rauf-portfolio.netlify.app/](https://umer-rauf-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
