@@ -1,4 +1,4 @@
-<h3 align="center">Exceptionally creative and dependable MERN Stack Web Developer. Expe- rienced in building responsive use interface and web application. Proficient in programming languages including ReactJS, ExpressJS, MUI, Tailwind and NodeJS</h3>
+<h3 align="center">Exceptionally creative and dependable MERN Stack and Python Developer. Experienced in building responsive use interface and web application. Proficient in programming languages including Python, ReactJS, ExpressJS, MUI, Tailwind and NodeJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerrauf6&label=Profile%20views&color=0e75b6&style=flat" alt="umerrauf6" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [umer-rauf-portfolio.netlify.app](umer-rauf-portfolio.netlify.app)
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node, Pyhton**
 
 - 📫 How to reach me **umerrauf6@gmail.com**
 
